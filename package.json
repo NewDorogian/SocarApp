@@ -1,0 +1,18 @@
+{
+  "name": "socar-app",
+  "version": "1.0.0",
+  "description": "Aplicacion full stack para socar",
+  "main": "app.js",
+  "author": "Andres Zurita",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev":"nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
